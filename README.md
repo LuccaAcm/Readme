@@ -10,6 +10,9 @@ gerenciado pela empresa.
 <h2> Links dos repositorios</h2>
 
 <p>
+  Designer
+  https://drive.google.com/drive/folders/1VSE6WNTTPwrQs_r8MDVgRcRApVCLIYTK?usp=drive_link
+  
   Web
   https://github.com/AlbatrozPyt/XChanllenge
   
@@ -19,6 +22,8 @@ gerenciado pela empresa.
   Dev
   https://github.com/GabrielSelvenca/XChallenge_API/ 
    Nesse link acima e possivel visualizar tanto a API quanto a documentação
+
+   
 </p>
 
 
